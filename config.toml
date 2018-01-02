@@ -1,0 +1,4 @@
+baseURL = "http://rewild.com/anthropik"
+languageCode = "en-us"
+title = "The 30 Anthropik Theses"
+theme = "anthropik"

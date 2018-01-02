@@ -1,0 +1,10 @@
+name = "anthropik"
+license = "MIT"
+licenselink = "https://github.com/alexandre-normand/anthropik/blob/master/themes/anthropik/LICENSE"
+description = "Simple and functional theme for Hugo"
+tags = ["blog", "white", "simple"]
+features = ["blog", "white", "simple"]
+min_version = "0.30"
+
+[author]
+  name = "Alexandre Normand"
